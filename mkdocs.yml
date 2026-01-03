@@ -1,0 +1,5 @@
+site_name: coreason_omop_etl_provider_databricks
+theme:
+  name: material
+nav:
+  - Home: index.md
